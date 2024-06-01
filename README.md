@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Projects
 
 - [Business Insights 360](https://github.com/rishikumar-sudo/Business-Insights-360): An analysis project providing comprehensive insights into business operations.
+- [Lok Sabha Election Analysis: 2014 vs 2019](https://github.com/rishikumar-sudo/Lok-Sabha-Election-Analysis-2014-vs-2019): This repository contains the code and resources used to analyze the Lok Sabha election results for the years 2014 and 2019.
+- [Shield Insurance](https://github.com/rishikumar-sudo/Shield-Insurance): This Project is part of data analytics internship at codebasics..
 
 
 ## Let's Connect!
